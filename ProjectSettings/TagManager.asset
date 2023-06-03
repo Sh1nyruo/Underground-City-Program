@@ -3,7 +3,13 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Start
+  - Load
+  - Settings
+  - Quit
+  - Tile
+  - Base
   layers:
   - Default
   - TransparentFX
@@ -12,7 +18,7 @@ TagManager:
   - Water
   - UI
   - 
-  - 
+  - TileMap
   - 
   - 
   - 
@@ -43,4 +49,10 @@ TagManager:
     locked: 0
   - name: Background
     uniqueID: 1553656505
+    locked: 0
+  - name: Tile
+    uniqueID: 1848017293
+    locked: 0
+  - name: New Layer 3
+    uniqueID: 1712887027
     locked: 0
